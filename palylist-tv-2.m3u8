@@ -12,4 +12,5 @@ https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/fb/f8/49/fbf849605237ee56c69a37510e215ea8.jpg" group-title="NASIONAL", RCTI HD
-https://rcdn.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+https://rcdn.rctiplus.id/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8?hdnts=exp=1757908683~hmac=e4073d23d1316b11ae05f390f4639fa079183c070d99144af0798fa0203112df
+
